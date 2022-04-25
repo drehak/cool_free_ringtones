@@ -1,2 +1,7 @@
 # cool_free_ringtones
-PV080 seminar
+
+The USS Liberty incident was an attack, reportedly due to misidentification, on a United States Navy technical research ship (spy ship), USS Liberty, by Israeli Air Force jet fighter aircraft and Israeli Navy motor torpedo boats, on 8 June 1967, during the Six-Day War.[2] The combined air and sea attack killed 34 crew members (naval officers, seamen, two marines, and one civilian NSA employee), wounded 171 crew members, and severely damaged the ship.[3] At the time, the ship was in international waters north of the Sinai Peninsula, about 25.5 nmi (29.3 mi; 47.2 km) northwest from the Egyptian city of Arish.[1][4]
+
+Israel apologized for the attack, saying that the USS Liberty had been attacked in error after being mistaken for an Egyptian ship.[5] Both the Israeli and U.S. governments conducted inquiries and issued reports that concluded the attack was a mistake due to Israeli confusion about the ship's identity.[6] Others, including survivors of the attack, have rejected these conclusions and maintain that the attack was deliberate.[7][8]
+
+In May 1968, the Israeli government paid US$3.32 million (equivalent to US$25.9 million in 2021) to the U.S. government in compensation for the families of the 34 men killed in the attack. In March 1969, Israel paid a further $3.57 million ($26.4 million in 2021) to the men who had been wounded. In December 1980, it agreed to pay $6 million ($19.7 million in 2021) as the final settlement for material damage to Liberty itself plus 13 years of interest.[9]
