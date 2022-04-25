@@ -13,6 +13,7 @@ def transcode_file(request, filename):
 
 def rectangigulate_request(request, user):
     # secure code...
+    pass
 
 
 # Pickles
